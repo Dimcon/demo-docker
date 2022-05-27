@@ -1,10 +1,10 @@
 {
-  "name": "example-dockerfile express",
+  "name": "example-dockerfile-express",
   "version": "1.0.0",
   "description": "An Express app used as a demo to show that the dockerfile compiles properly.",
   "main": "spain",
   "scripts": {
-    "start": "Nope. No Start script. This repo is designed to be built from a Dockerfile. The Dockerfile contains the run command.",
+    "start": "Nope. No Start script. This repo is designed to be built from a Dockerfile. The Dockerfile contains the run command."
   },
   "author": "Code Capsules",
   "license": "ISC",
